@@ -24,15 +24,15 @@ Prometheus is a free software application used for event monitoring and alerting
 
 ## PROMETHEUS:
 
- 1. [pvc](https://github.com/raghav1674/Devops-Task-6/blob/master/create_prom-pvc.yml)
- 2. [configMap](https://github.com/raghav1674/Devops-Task-6/blob/master/create_prom_config.yml)
- 3. [svc-cluster-ip](https://github.com/raghav1674/Devops-Task-6/blob/master/create_svc_cluster.yml)
- 4. [svc-node-port-deployment](https://github.com/raghav1674/Devops-Task-6/blob/master/create_prom_deployment.yml)
+ 1. [Pvc](https://github.com/raghav1674/Devops-Task-6/blob/master/create_prom-pvc.yml)
+ 2. [ConfigMap](https://github.com/raghav1674/Devops-Task-6/blob/master/create_prom_config.yml)
+ 3. [Service-clusterIP](https://github.com/raghav1674/Devops-Task-6/blob/master/create_svc_cluster.yml)
+ 4. [Deployment](https://github.com/raghav1674/Devops-Task-6/blob/master/create_prom_deployment.yml)
  
  ## GRAFANA:
  
-  1. [pvc](https://github.com/raghav1674/Devops-Task-6/blob/master/create_grafana-pvc.yml)
-  2. [svc-node-port-deployment](https://github.com/raghav1674/Devops-Task-6/blob/master/create_grafana_deployment.yml)
+  1. [Pvc](https://github.com/raghav1674/Devops-Task-6/blob/master/create_grafana-pvc.yml)
+  2. [Service-NodePort-Deployment](https://github.com/raghav1674/Devops-Task-6/blob/master/create_grafana_deployment.yml)
        
 
 
