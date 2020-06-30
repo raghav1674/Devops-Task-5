@@ -5,7 +5,8 @@
 ## GRAFANA:
 
 Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources. It is expandable through a plug-in system. End users can create complex monitoring dashboards using interactive query builders.
-[Dockerfile]()
+
+[Dockerfile](https://github.com/raghav1674/Devops-Task-6/blob/master/Dockerfile)
 
 ## PROMETHEUS:
 
@@ -13,7 +14,7 @@ Prometheus is a free software application used for event monitoring and alerting
 
 
 
-[Dockerfile]()
+[Dockerfile](https://github.com/raghav1674/Devops-Task-6/blob/master/dockerfile)
 
 ## Integrate Prometheus and Grafana and perform in following way:
 
@@ -23,19 +24,24 @@ Prometheus is a free software application used for event monitoring and alerting
 
 ## PROMETHEUS:
 
- 1. [pvc]
- 2. [configMap]
- 3. [svc-cluster-ip]
- 4. [svc-node-port-deployment]
+ 1. [pvc](https://github.com/raghav1674/Devops-Task-6/blob/master/create_prom-pvc.yml)
+ 2. [configMap](https://github.com/raghav1674/Devops-Task-6/blob/master/create_prom_config.yml)
+ 3. [svc-cluster-ip](https://github.com/raghav1674/Devops-Task-6/blob/master/create_svc_cluster.yml)
+ 4. [svc-node-port-deployment](https://github.com/raghav1674/Devops-Task-6/blob/master/create_prom_deployment.yml)
  
  ## GRAFANA:
  
-  1. [pvc]
-  2. [svc-node-port-deployment]
+  1. [pvc](https://github.com/raghav1674/Devops-Task-6/blob/master/create_grafana-pvc.yml)
+  2. [svc-node-port-deployment](https://github.com/raghav1674/Devops-Task-6/blob/master/create_grafana_deployment.yml)
        
 
 
+## 2.  And make their data to be remain persistent 
 
 
-2.  And make their data to be remain persistent 
-3.  And both of them should be exposed to outside world
+
+
+
+
+
+## 3.  And both of them should be exposed to outside world
